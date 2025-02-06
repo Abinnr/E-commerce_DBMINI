@@ -61,8 +61,12 @@ Screenshots
 
 ![Screenshot 2024-11-08 114451](https://github.com/user-attachments/assets/88d77d6d-07a4-476b-a2e1-d9e2fc6523d0)
 
+4. Cart Management
 
-3. Cart Management
+
+![Screenshot 2024-11-06 082623](https://github.com/user-attachments/assets/c811dfc2-8223-4f21-b6d1-df7d9bd584f1)
+
+4. Profile Management
 
 ![Screenshot 2024-11-08 114318](https://github.com/user-attachments/assets/c65d8803-d394-46ef-b143-617855642495)
 
